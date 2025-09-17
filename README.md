@@ -1,5 +1,5 @@
-Для хакатона Shai.ai 
-Task 3
+# Для хакатона Shai.ai 
+# Task 3
 # SupplyRisk ML Model
 
 ## Структура проекта
